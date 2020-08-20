@@ -1,0 +1,43 @@
+*{
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+
+}
+table, td {
+  border: 1px solid white;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: white;
+  padding-left: 80px;
+}
+th{
+  text-align: center;
+  border: 1px solid white;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+label{
+  color: white;
+}
+head, body{
+  background-color: #1C1C1C;
+}
+h3,h1{
+  text-align: center;
+  color: white;
+  font-family: 'Sacramento', cursive;
+}
+h4,h2{
+  color: white;
+  font-family: 'Sacramento', cursive;
+}
+#navbarNav{
+  background-color: white;
+}
+#para{
+  color: white;
+}
+.copy{
+  color: white;
+}
